@@ -1,7 +1,3 @@
-Here's an expanded version of the README with more detail and elaboration:
-
----
-
 # EpicChain-Raptor SDK  
 
 <p align="center">
