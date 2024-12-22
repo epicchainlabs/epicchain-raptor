@@ -1,9 +1,5 @@
 # EpicChain-Raptor SDK  
 
-<p align="center">
-  <img src=".github/resources/images/logo.png" width="400px" alt="EpicChain Logo">
-</p>
-
 ---
 
 ## Overview
